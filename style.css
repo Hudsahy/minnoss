@@ -7,7 +7,7 @@
 body {
     background-image: url('Yusuf.JPG');
     background-position: center center;
-    height: 100vh ;
+    height: 100% ;
     font-family: 'Playpen Sans';
     font-size: 40px;
     display: flex;
